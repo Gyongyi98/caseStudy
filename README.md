@@ -1,2 +1,0 @@
-# caseStudy
-Screenshot project
